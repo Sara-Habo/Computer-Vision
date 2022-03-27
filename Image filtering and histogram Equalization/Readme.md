@@ -1,0 +1,1 @@
+Please, note that image (9.jpg) need to be in the same directory as main.py file as it is the background of the GUI.
